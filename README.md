@@ -3,6 +3,7 @@
 
 This is a Python project for PCB Image Segmentation using Multi-UNet. In this project, we have used Multi-UNet architecture to segment PCB images into background, IC and PCB classes. We have used a dataset of PCB images from https://zenodo.org/record/3886553 to train the model and generated image masks for each class. We have also provided a prediction script to predict the classes of new images.
 
+<img src="./results/pred_cvl_pcb_dslr_5-pcb88-rec4.png" alt="my caption" style="width: 30%;"/><img src="./results/cvl_pcb_dslr_5-pcb88-rec4.png" alt="my caption" style="width: 30%;"/><img src="./results/cvl_pcb_dslr_5-pcb88-rec4.jpg" alt="my caption" style="width: 30%;"/>
 ## Requirements
 
 To run the code, you need to have the following Python packages installed:
