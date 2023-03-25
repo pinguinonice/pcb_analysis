@@ -1,0 +1,4 @@
+# Build and Release Folders
+dataset/
+
+__pycache__/
