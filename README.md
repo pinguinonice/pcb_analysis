@@ -55,17 +55,17 @@ Here are some example results of the model:
 Left: Prediction, Middel: Groundtruth, Right: Input 
 
 
-<img src="./results/pred_cvl_pcb_dslr_8-pcb161-rec3.png" alt="my caption" style="width: 33%;"/>
-<img src="./results/cvl_pcb_dslr_8-pcb161-rec3.png" alt="my caption" style="width: 33%;"/>
-<img src="./results/cvl_pcb_dslr_8-pcb161-rec3.jpg" alt="my caption" style="width: 33%;"/>
+<img src="./results/pred_cvl_pcb_dslr_8-pcb161-rec3.png" alt="my caption" style="width: 30%;"/>
+<img src="./results/cvl_pcb_dslr_8-pcb161-rec3.png" alt="my caption" style="width: 30%;"/>
+<img src="./results/cvl_pcb_dslr_8-pcb161-rec3.jpg" alt="my caption" style="width: 30%;"/>
 
-<img src="./results/pred_cvl_pcb_dslr_5-pcb86-rec4.png" alt="my caption" style="width: 33%;"/>
-<img src="./results/cvl_pcb_dslr_5-pcb86-rec4.png" alt="my caption" style="width: 33%;"/>
-<img src="./results/cvl_pcb_dslr_5-pcb86-rec4.jpg" alt="my caption" style="width: 33%;"/>
+<img src="./results/pred_cvl_pcb_dslr_5-pcb86-rec4.png" alt="my caption" style="width: 30%;"/>
+<img src="./results/cvl_pcb_dslr_5-pcb86-rec4.png" alt="my caption" style="width: 30%;"/>
+<img src="./results/cvl_pcb_dslr_5-pcb86-rec4.jpg" alt="my caption" style="width: 30%;"/>
 
-<img src="./results/pred_cvl_pcb_dslr_6-pcb116-rec1.png" alt="my caption" style="width: 33%;"/>
-<img src="./results/cvl_pcb_dslr_6-pcb116-rec1.png" alt="my caption" style="width: 33%;"/>
-<img src="./results/cvl_pcb_dslr_6-pcb116-rec1.jpg" alt="my caption" style="width: 33%;"/>
+<img src="./results/pred_cvl_pcb_dslr_6-pcb116-rec1.png" alt="my caption" style="width: 30%;"/>
+<img src="./results/cvl_pcb_dslr_6-pcb116-rec1.png" alt="my caption" style="width: 30%;"/>
+<img src="./results/cvl_pcb_dslr_6-pcb116-rec1.jpg" alt="my caption" style="width: 30%;"/>
 
 
 
