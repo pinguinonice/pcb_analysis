@@ -20,7 +20,7 @@ from matplotlib import pyplot as plt
 
 from pcb_analysis import PCB, DATASET
 
-path_weights = 'unet-ic-pcb_10x256x6x256_2023-03-24 18:24:06.221360.hdf5'
+path_weights = 'unet-ic-pcb_10x256x6x256_2023-03-27 11:29:46.864011.hdf5'
 # getting input size and rows cols for patches from name
 
 parameter = path_weights.split('_')[1].split('x')
