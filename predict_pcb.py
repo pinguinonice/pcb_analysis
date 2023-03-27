@@ -20,7 +20,7 @@ from matplotlib import pyplot as plt
 
 from pcb_analysis import PCB, DATASET
 
-path_weights = 'unet-ic-pcb_10x256x6x256_2023-03-27 11:29:46.864011.hdf5'
+path_weights = 'unet-ic-pcb_10x256x6x256_2023-03-27 17:26:09.832389.hdf5'
 # getting input size and rows cols for patches from name
 
 parameter = path_weights.split('_')[1].split('x')
@@ -101,22 +101,22 @@ for image_path, mask_path in zip(test_img_paths, test_mask_paths):
 
     rgb_reconstructed_classes_large = reconstructed_predicted_large*255
 
-    # plot
-    plt.figure(figsize=(12, 4))
+    # # plot
+    # plt.figure(figsize=(12, 4))
 
-    plt.subplot(131)
-    plt.title('Input')
-    plt.imshow(large_image)
+    # plt.subplot(131)
+    # plt.title('Input')
+    # plt.imshow(large_image)
 
-    plt.subplot(132)
-    plt.title('Prediction')
-    plt.imshow(rgb_reconstructed_classes_large)
+    # plt.subplot(132)
+    # plt.title('Prediction')
+    # plt.imshow(rgb_reconstructed_classes_large)
 
-    plt.subplot(133)
-    plt.title('Ground Truth')
-    plt.imshow(large_mask, cmap='jet')
+    # plt.subplot(133)
+    # plt.title('Ground Truth')
+    # plt.imshow(large_mask, cmap='jet')
 
-    plt.show()
+    # plt.show()
 
     # save the results in a folder results 
 

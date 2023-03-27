@@ -69,7 +69,7 @@ model.compile(optimizer='adam', loss='categorical_crossentropy',
               metrics=['accuracy'])
 
 # # load weights
-path_weights = 'unet-ic-pcb_10x256x6x256_2023-03-26 22:19:47.507318.hdf5'
+path_weights = 'unet-ic-pcb_10x256x6x256_2023-03-27 14:12:25.960411.hdf5'
 while True:
     model.load_weights(path_weights)
 
