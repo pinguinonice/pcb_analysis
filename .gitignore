@@ -2,3 +2,7 @@
 dataset/
 
 __pycache__/
+*.data-00000-of-00001
+*.index
+yolo/checkpoints/.DS_Store
+*.weights

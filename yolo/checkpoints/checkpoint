@@ -1,0 +1,2 @@
+model_checkpoint_path: "yolov3_custom_val_loss_  16.15.data-00000-of-00001_val_loss_  14.40"
+all_model_checkpoint_paths: "yolov3_custom_val_loss_  16.15.data-00000-of-00001_val_loss_  14.40"
